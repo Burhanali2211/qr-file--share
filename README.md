@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are always welcome!
 
 ## Contact
-For any issues or suggestions, open an issue or reach out at `your.email@example.com`.
+For any issues or suggestions, open an issue or reach out at `gamingcristy19@gmail.com`.
